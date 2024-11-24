@@ -1,0 +1,2402 @@
+{
+    "timeline": [
+        {
+            "type": "tweet",
+            "tweet_id": "1777965753024536802",
+            "screen_name": "George1Trader",
+            "bookmarks": 0,
+            "favorites": 48,
+            "created_at": "Wed Apr 10 07:44:03 +0000 2024",
+            "text": "#btc One line to rule them all. \n\nAs long as we hold above, we're on our way to 100k. https://t.co/Ypfwnc6Eu5",
+            "lang": "en",
+            "quotes": 0,
+            "replies": 14,
+            "retweets": 1,
+            "views": "2090",
+            "entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/Ypfwnc6Eu5",
+                        "expanded_url": "https://twitter.com/George1Trader/status/1777965753024536802/photo/1",
+                        "id_str": "1777965649911750656",
+                        "indices": [
+                            86,
+                            109
+                        ],
+                        "media_key": "3_1777965649911750656",
+                        "media_url_https": "https://pbs.twimg.com/media/GKyaVqnWIAAZFFw.png",
+                        "type": "photo",
+                        "url": "https://t.co/Ypfwnc6Eu5",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 883,
+                                "w": 1835,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 577,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 327,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 883,
+                            "width": 1835,
+                            "focus_rects": [
+                                {
+                                    "x": 83,
+                                    "y": 0,
+                                    "w": 1577,
+                                    "h": 883
+                                },
+                                {
+                                    "x": 430,
+                                    "y": 0,
+                                    "w": 883,
+                                    "h": 883
+                                },
+                                {
+                                    "x": 484,
+                                    "y": 0,
+                                    "w": 775,
+                                    "h": 883
+                                },
+                                {
+                                    "x": 650,
+                                    "y": 0,
+                                    "w": 442,
+                                    "h": 883
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1835,
+                                    "h": 883
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "user_mentions": [],
+                "urls": [],
+                "hashtags": [
+                    {
+                        "indices": [
+                            0,
+                            4
+                        ],
+                        "text": "btc"
+                    }
+                ],
+                "symbols": []
+            },
+            "user_info": {
+                "screen_name": "George1Trader",
+                "name": "George",
+                "rest_id": "2554656433",
+                "followers_count": 114059,
+                "favourites_count": 46634,
+                "avatar": "https://pbs.twimg.com/profile_images/1612389881585537026/6J_U6Fy3_normal.jpg",
+                "verified": false,
+                "friends_count": 528
+            },
+            "media": {
+                "photo": [
+                    {
+                        "media_url_https": "https://pbs.twimg.com/media/GKyaVqnWIAAZFFw.png",
+                        "id": "1777965649911750656"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "tweet",
+            "tweet_id": "1777875009999872189",
+            "screen_name": "Learnernoearner",
+            "bookmarks": 22,
+            "favorites": 211,
+            "created_at": "Wed Apr 10 01:43:28 +0000 2024",
+            "text": "#BTC Will look for longs around 67900\n\nTP1: 71500 \nTP2: 74400 https://t.co/IToctGlj1v",
+            "lang": "en",
+            "quotes": 2,
+            "replies": 42,
+            "retweets": 39,
+            "views": "16100",
+            "entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/IToctGlj1v",
+                        "expanded_url": "https://twitter.com/Learnernoearner/status/1777875009999872189/photo/1",
+                        "id_str": "1777875004572454914",
+                        "indices": [
+                            62,
+                            85
+                        ],
+                        "media_key": "3_1777875004572454914",
+                        "media_url_https": "https://pbs.twimg.com/media/GKxH5aaWUAI9wjh.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/IToctGlj1v",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 928,
+                                "w": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 544,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 308,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 928,
+                            "width": 2048,
+                            "focus_rects": [
+                                {
+                                    "x": 391,
+                                    "y": 0,
+                                    "w": 1657,
+                                    "h": 928
+                                },
+                                {
+                                    "x": 1120,
+                                    "y": 0,
+                                    "w": 928,
+                                    "h": 928
+                                },
+                                {
+                                    "x": 1234,
+                                    "y": 0,
+                                    "w": 814,
+                                    "h": 928
+                                },
+                                {
+                                    "x": 1584,
+                                    "y": 0,
+                                    "w": 464,
+                                    "h": 928
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2048,
+                                    "h": 928
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "user_mentions": [],
+                "urls": [],
+                "hashtags": [
+                    {
+                        "indices": [
+                            0,
+                            4
+                        ],
+                        "text": "BTC"
+                    }
+                ],
+                "symbols": []
+            },
+            "user_info": {
+                "screen_name": "Learnernoearner",
+                "name": "UNKNOWN TRADER",
+                "rest_id": "904318302167728130",
+                "followers_count": 40467,
+                "favourites_count": 13119,
+                "avatar": "https://pbs.twimg.com/profile_images/1722060690775539712/OP8MFN04_normal.jpg",
+                "verified": false,
+                "friends_count": 129
+            },
+            "media": {
+                "photo": [
+                    {
+                        "media_url_https": "https://pbs.twimg.com/media/GKxH5aaWUAI9wjh.jpg",
+                        "id": "1777875004572454914"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "tweet",
+            "tweet_id": "1777937296853230076",
+            "screen_name": "BTC_3518",
+            "bookmarks": 0,
+            "favorites": 4,
+            "created_at": "Wed Apr 10 05:50:58 +0000 2024",
+            "text": "Among numerous numbers, $3518 captivates my interest with its unique inscription. A special numeral indeed! https://t.co/ynF2WTJhA9",
+            "lang": "en",
+            "quotes": 0,
+            "replies": 5,
+            "retweets": 2,
+            "views": "159",
+            "entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/ynF2WTJhA9",
+                        "expanded_url": "https://twitter.com/BTC_3518/status/1777937296853230076/video/1",
+                        "id_str": "1777937012928212992",
+                        "indices": [
+                            108,
+                            131
+                        ],
+                        "media_key": "7_1777937012928212992",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1777937012928212992/pu/img/kaZF8AGA7PZBryu8.jpg",
+                        "type": "video",
+                        "url": "https://t.co/ynF2WTJhA9",
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1080,
+                                "w": 1920,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 675,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 383,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1080,
+                            "width": 1920,
+                            "focus_rects": []
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 9613,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1777937012928212992/pu/pl/2ApovIowCOw5Je7Z.m3u8?tag=12&container=cmaf"
+                                },
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1777937012928212992/pu/vid/avc1/480x270/vGqWWlcV0CUTouhP.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1777937012928212992/pu/vid/avc1/640x360/kgCxHVEOjuPEhAzC.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1777937012928212992/pu/vid/avc1/1280x720/hG_eh-_oiL8--dau.mp4?tag=12"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "user_mentions": [],
+                "urls": [],
+                "hashtags": [],
+                "symbols": []
+            },
+            "user_info": {
+                "screen_name": "BTC_3518",
+                "name": "$3518",
+                "rest_id": "1494580227737288705",
+                "followers_count": 375,
+                "favourites_count": 87,
+                "avatar": "https://pbs.twimg.com/profile_images/1745585511169974272/VXoS7MvW_normal.jpg",
+                "verified": false,
+                "friends_count": 33
+            },
+            "media": {
+                "video": [
+                    {
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1777937012928212992/pu/img/kaZF8AGA7PZBryu8.jpg",
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1777937012928212992/pu/pl/2ApovIowCOw5Je7Z.m3u8?tag=12&container=cmaf"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1777937012928212992/pu/vid/avc1/480x270/vGqWWlcV0CUTouhP.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1777937012928212992/pu/vid/avc1/640x360/kgCxHVEOjuPEhAzC.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1777937012928212992/pu/vid/avc1/1280x720/hG_eh-_oiL8--dau.mp4?tag=12"
+                            }
+                        ],
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "original_info": {
+                            "height": 1080,
+                            "width": 1920,
+                            "focus_rects": []
+                        },
+                        "id": "1777937012928212992"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "tweet",
+            "tweet_id": "1777946287444230470",
+            "screen_name": "intuitio_",
+            "bookmarks": 19,
+            "favorites": 174,
+            "created_at": "Wed Apr 10 06:26:42 +0000 2024",
+            "text": "it shouldn't be allowed for a human being to be as bullish as i am. there should be a law against being as bullish as i am. i am telling you man. the time to be hyper-bullish is NOW, in the midst of uncertainty, BEFORE btc breaks ath and eth outperforms, not at the top. in the midst of uncertainty, thrive. and in the midst of chaos, expand. we make uncertainty and chaos our friend, not because we love them, but because we love winning. if you wait long enough, price will (it CERTAINLY WILL!) convince you to max bid. but when it does, it'll be too late. HIGHER",
+            "lang": "en",
+            "quotes": 5,
+            "replies": 18,
+            "retweets": 18,
+            "views": "7182",
+            "entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/2WQlbkCNYC",
+                        "expanded_url": "https://twitter.com/intuitio_/status/1777946287444230470/photo/1",
+                        "id_str": "1777944471696519168",
+                        "indices": [
+                            279,
+                            302
+                        ],
+                        "media_key": "3_1777944471696519168",
+                        "media_url_https": "https://pbs.twimg.com/media/GKyHE7nXMAAM1lS.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/2WQlbkCNYC",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 674,
+                                "w": 691,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 674,
+                                "w": 691,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 663,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 674,
+                            "width": 691,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 691,
+                                    "h": 387
+                                },
+                                {
+                                    "x": 8,
+                                    "y": 0,
+                                    "w": 674,
+                                    "h": 674
+                                },
+                                {
+                                    "x": 50,
+                                    "y": 0,
+                                    "w": 591,
+                                    "h": 674
+                                },
+                                {
+                                    "x": 177,
+                                    "y": 0,
+                                    "w": 337,
+                                    "h": 674
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 691,
+                                    "h": 674
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "user_mentions": [],
+                "urls": [],
+                "hashtags": [],
+                "symbols": []
+            },
+            "user_info": {
+                "screen_name": "intuitio_",
+                "name": "intuitio",
+                "rest_id": "1356211964624691204",
+                "followers_count": 19142,
+                "favourites_count": 3603,
+                "avatar": "https://pbs.twimg.com/profile_images/1762430250636455937/JpI6NZEV_normal.jpg",
+                "verified": false,
+                "friends_count": 604
+            },
+            "media": {
+                "photo": [
+                    {
+                        "media_url_https": "https://pbs.twimg.com/media/GKyHE7nXMAAM1lS.jpg",
+                        "id": "1777944471696519168"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "tweet",
+            "tweet_id": "1777962987661263049",
+            "screen_name": "SenseiBR_btc",
+            "bookmarks": 0,
+            "favorites": 11,
+            "created_at": "Wed Apr 10 07:33:03 +0000 2024",
+            "text": "#BITCOIN \n\nTICK TOCK TOCK TOCK https://t.co/7ftxzkyRF8",
+            "lang": "en",
+            "quotes": 0,
+            "replies": 3,
+            "retweets": 2,
+            "views": "532",
+            "entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/7ftxzkyRF8",
+                        "expanded_url": "https://twitter.com/SenseiBR_btc/status/1777962987661263049/photo/1",
+                        "id_str": "1777962982355443712",
+                        "indices": [
+                            31,
+                            54
+                        ],
+                        "media_key": "3_1777962982355443712",
+                        "media_url_https": "https://pbs.twimg.com/media/GKyX6ZMXIAAE9zd.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/7ftxzkyRF8",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1918,
+                                "w": 1169,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 731,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 414,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1918,
+                            "width": 1169,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 104,
+                                    "w": 1169,
+                                    "h": 655
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1169,
+                                    "h": 1169
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1169,
+                                    "h": 1333
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 959,
+                                    "h": 1918
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1169,
+                                    "h": 1918
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "user_mentions": [],
+                "urls": [],
+                "hashtags": [
+                    {
+                        "indices": [
+                            0,
+                            8
+                        ],
+                        "text": "BITCOIN"
+                    }
+                ],
+                "symbols": []
+            },
+            "user_info": {
+                "screen_name": "SenseiBR_btc",
+                "name": "Sensei",
+                "rest_id": "1722330307892744192",
+                "followers_count": 23070,
+                "favourites_count": 2261,
+                "avatar": "https://pbs.twimg.com/profile_images/1768669945192136704/eImtL3gp_normal.jpg",
+                "verified": false,
+                "friends_count": 68
+            },
+            "media": {
+                "photo": [
+                    {
+                        "media_url_https": "https://pbs.twimg.com/media/GKyX6ZMXIAAE9zd.jpg",
+                        "id": "1777962982355443712"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "tweet",
+            "tweet_id": "1777942558091386952",
+            "screen_name": "EmperorBTC",
+            "bookmarks": 29,
+            "favorites": 446,
+            "created_at": "Wed Apr 10 06:11:53 +0000 2024",
+            "text": "We rejected from around ATH again. Alts dropped much more than Bitcoin as Expected. \n\nWhile everyone expects range low retest or breakdown, it's very likely we will slowly Pump and then Pump harder post Halving. https://t.co/RnFJ00dL5a",
+            "lang": "en",
+            "quotes": 0,
+            "replies": 52,
+            "retweets": 48,
+            "views": "22106",
+            "entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/RnFJ00dL5a",
+                        "expanded_url": "https://twitter.com/EmperorBTC/status/1777942558091386952/photo/1",
+                        "id_str": "1777942328671383554",
+                        "indices": [
+                            212,
+                            235
+                        ],
+                        "media_key": "3_1777942328671383554",
+                        "media_url_https": "https://pbs.twimg.com/media/GKyFIMOWsAISRlC.png",
+                        "type": "photo",
+                        "url": "https://t.co/RnFJ00dL5a",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1072,
+                                "w": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 628,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 356,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1256,
+                            "width": 2400,
+                            "focus_rects": [
+                                {
+                                    "x": 139,
+                                    "y": 0,
+                                    "w": 2243,
+                                    "h": 1256
+                                },
+                                {
+                                    "x": 632,
+                                    "y": 0,
+                                    "w": 1256,
+                                    "h": 1256
+                                },
+                                {
+                                    "x": 709,
+                                    "y": 0,
+                                    "w": 1102,
+                                    "h": 1256
+                                },
+                                {
+                                    "x": 946,
+                                    "y": 0,
+                                    "w": 628,
+                                    "h": 1256
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2400,
+                                    "h": 1256
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "user_mentions": [],
+                "urls": [],
+                "hashtags": [],
+                "symbols": []
+            },
+            "user_info": {
+                "screen_name": "EmperorBTC",
+                "name": "Emperor\ud83d\udc51",
+                "rest_id": "183951857",
+                "followers_count": 385595,
+                "favourites_count": 12873,
+                "avatar": "https://pbs.twimg.com/profile_images/1255553321768636416/rVficlRs_normal.jpg",
+                "verified": false,
+                "friends_count": 708
+            },
+            "media": {
+                "photo": [
+                    {
+                        "media_url_https": "https://pbs.twimg.com/media/GKyFIMOWsAISRlC.png",
+                        "id": "1777942328671383554"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "tweet",
+            "tweet_id": "1777951822403047624",
+            "screen_name": "niodamian",
+            "bookmarks": 0,
+            "favorites": 10,
+            "created_at": "Wed Apr 10 06:48:41 +0000 2024",
+            "text": "Am i the only one who remembers @MetaGloriaNFT ? \nThe most Iconic Game Changer within Terra Classic ? \nHis game was OP but he went silence .... wondering why \n\n#lunc $lunc #ustc $ustc #terra $terra #bnb #btc https://t.co/VjDD6xvTnx",
+            "lang": "en",
+            "quotes": 0,
+            "replies": 1,
+            "retweets": 1,
+            "views": "250",
+            "entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/VjDD6xvTnx",
+                        "expanded_url": "https://twitter.com/niodamian/status/1777951822403047624/video/1",
+                        "id_str": "1777951668073562112",
+                        "indices": [
+                            208,
+                            231
+                        ],
+                        "media_key": "7_1777951668073562112",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1777951668073562112/pu/img/HY2OQJCEDArBTnBg.jpg",
+                        "type": "video",
+                        "url": "https://t.co/VjDD6xvTnx",
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 720,
+                                "w": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 675,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 383,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 720,
+                            "width": 1280,
+                            "focus_rects": []
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 65548,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1777951668073562112/pu/pl/5mLdke-RO90b1w6g.m3u8?tag=12&container=cmaf"
+                                },
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1777951668073562112/pu/vid/avc1/480x270/WemBNgnxkQ2SLcmP.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1777951668073562112/pu/vid/avc1/640x360/YTal-HL42ku5VdSn.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1777951668073562112/pu/vid/avc1/1280x720/hbXJ572KTEHWNEOu.mp4?tag=12"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id_str": "1512820544365862917",
+                        "name": "METAGLORIA",
+                        "screen_name": "MetaGloriaNFT",
+                        "indices": [
+                            32,
+                            46
+                        ]
+                    }
+                ],
+                "urls": [],
+                "hashtags": [
+                    {
+                        "indices": [
+                            160,
+                            165
+                        ],
+                        "text": "lunc"
+                    },
+                    {
+                        "indices": [
+                            172,
+                            177
+                        ],
+                        "text": "ustc"
+                    },
+                    {
+                        "indices": [
+                            184,
+                            190
+                        ],
+                        "text": "terra"
+                    },
+                    {
+                        "indices": [
+                            198,
+                            202
+                        ],
+                        "text": "bnb"
+                    },
+                    {
+                        "indices": [
+                            203,
+                            207
+                        ],
+                        "text": "btc"
+                    }
+                ],
+                "symbols": [
+                    {
+                        "indices": [
+                            166,
+                            171
+                        ],
+                        "text": "lunc"
+                    },
+                    {
+                        "indices": [
+                            178,
+                            183
+                        ],
+                        "text": "ustc"
+                    },
+                    {
+                        "indices": [
+                            191,
+                            197
+                        ],
+                        "text": "terra"
+                    }
+                ]
+            },
+            "user_info": {
+                "screen_name": "niodamian",
+                "name": "Teck",
+                "rest_id": "955164229329477632",
+                "followers_count": 216,
+                "favourites_count": 1133,
+                "avatar": "https://pbs.twimg.com/profile_images/1767263285768867840/qayzau62_normal.jpg",
+                "verified": false,
+                "friends_count": 58
+            },
+            "media": {
+                "video": [
+                    {
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1777951668073562112/pu/img/HY2OQJCEDArBTnBg.jpg",
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1777951668073562112/pu/pl/5mLdke-RO90b1w6g.m3u8?tag=12&container=cmaf"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1777951668073562112/pu/vid/avc1/480x270/WemBNgnxkQ2SLcmP.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1777951668073562112/pu/vid/avc1/640x360/YTal-HL42ku5VdSn.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1777951668073562112/pu/vid/avc1/1280x720/hbXJ572KTEHWNEOu.mp4?tag=12"
+                            }
+                        ],
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "original_info": {
+                            "height": 720,
+                            "width": 1280,
+                            "focus_rects": []
+                        },
+                        "id": "1777951668073562112"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "tweet",
+            "tweet_id": "1777966682851442847",
+            "screen_name": "JoshOnSei",
+            "bookmarks": 1,
+            "favorites": 5,
+            "created_at": "Wed Apr 10 07:47:44 +0000 2024",
+            "text": "$sei is just giving everyone a chance to buy / ape in Before the Bull run commences , as it currently sits at $0.68$ ( thats super cheap ) for such rare Gem \ud83d\udc8e \nFA \u2026 Buy #Sei while you can \u2026 o , I get it , y\u2019all waiting to buy at the TOP again \ud83d\ude06\n\n#memecoin #Btc #Airdrop https://t.co/t7OCohzZPX",
+            "lang": "en",
+            "quotes": 1,
+            "replies": 5,
+            "retweets": 3,
+            "views": "50",
+            "entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/t7OCohzZPX",
+                        "expanded_url": "https://twitter.com/JoshOnSei/status/1777966682851442847/photo/1",
+                        "id_str": "1777966671547842560",
+                        "indices": [
+                            270,
+                            293
+                        ],
+                        "media_key": "3_1777966671547842560",
+                        "media_url_https": "https://pbs.twimg.com/media/GKybRIgXwAArbvz.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/t7OCohzZPX",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "all": {
+                                "tags": [
+                                    {
+                                        "user_id": "1515104342906327045",
+                                        "name": "Sei \ud83d\udd34\ud83d\udca8",
+                                        "screen_name": "SeiNetwork",
+                                        "type": "user"
+                                    },
+                                    {
+                                        "user_id": "391474015",
+                                        "name": "\ud835\udc03\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc25\ud835\udc0a",
+                                        "screen_name": "tezukaTez",
+                                        "type": "user"
+                                    }
+                                ]
+                            },
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1387,
+                                "w": 1284,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 1111,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 630,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1387,
+                            "width": 1284,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 577,
+                                    "w": 1284,
+                                    "h": 719
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 103,
+                                    "w": 1284,
+                                    "h": 1284
+                                },
+                                {
+                                    "x": 67,
+                                    "y": 0,
+                                    "w": 1217,
+                                    "h": 1387
+                                },
+                                {
+                                    "x": 590,
+                                    "y": 0,
+                                    "w": 694,
+                                    "h": 1387
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1284,
+                                    "h": 1387
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "user_mentions": [],
+                "urls": [],
+                "hashtags": [
+                    {
+                        "indices": [
+                            169,
+                            173
+                        ],
+                        "text": "Sei"
+                    },
+                    {
+                        "indices": [
+                            246,
+                            255
+                        ],
+                        "text": "memecoin"
+                    },
+                    {
+                        "indices": [
+                            256,
+                            260
+                        ],
+                        "text": "Btc"
+                    },
+                    {
+                        "indices": [
+                            261,
+                            269
+                        ],
+                        "text": "Airdrop"
+                    }
+                ],
+                "symbols": [
+                    {
+                        "indices": [
+                            0,
+                            4
+                        ],
+                        "text": "sei"
+                    }
+                ]
+            },
+            "user_info": {
+                "screen_name": "JoshOnSei",
+                "name": "Josh \uea00",
+                "rest_id": "1400812871609729030",
+                "followers_count": 3023,
+                "favourites_count": 9492,
+                "avatar": "https://pbs.twimg.com/profile_images/1743653346718744576/_MbmTc_s_normal.jpg",
+                "verified": false,
+                "friends_count": 277
+            },
+            "media": {
+                "photo": [
+                    {
+                        "media_url_https": "https://pbs.twimg.com/media/GKybRIgXwAArbvz.jpg",
+                        "id": "1777966671547842560"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "tweet",
+            "tweet_id": "1777957900281086375",
+            "screen_name": "runealpha_btc",
+            "bookmarks": 1,
+            "favorites": 13,
+            "created_at": "Wed Apr 10 07:12:50 +0000 2024",
+            "text": "Get ready to spice things up! \nThe Chefs Collection is set to be the world's first Ordinals-Phygital collection. \n\nTo all chef holders: expect future airdrops not just in Bitcoin, but in real life too. A flavor explosion awaits! \ud83d\ude80 https://t.co/2BpzbYQezz",
+            "lang": "en",
+            "quotes": 5,
+            "replies": 14,
+            "retweets": 3,
+            "views": "2378",
+            "entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/2BpzbYQezz",
+                        "expanded_url": "https://twitter.com/runealpha_btc/status/1777957900281086375/video/1",
+                        "id_str": "1777956236673392640",
+                        "indices": [
+                            231,
+                            254
+                        ],
+                        "media_key": "7_1777956236673392640",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1777956236673392640/pu/img/U2wkqF6w3ItL2GJw.jpg",
+                        "type": "video",
+                        "url": "https://t.co/2BpzbYQezz",
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 1080,
+                                "w": 1920,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 675,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 383,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 1080,
+                            "width": 1920,
+                            "focus_rects": []
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 11120,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1777956236673392640/pu/pl/3pYtEQ4j__QBrNvf.m3u8?tag=12&container=cmaf"
+                                },
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1777956236673392640/pu/vid/avc1/480x270/nitNpUyhdeSbgh5Y.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1777956236673392640/pu/vid/avc1/640x360/8fmTd40Drjz_Ghrr.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1777956236673392640/pu/vid/avc1/1280x720/CS4kRnO5WBtHW-vs.mp4?tag=12"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "user_mentions": [],
+                "urls": [],
+                "hashtags": [],
+                "symbols": []
+            },
+            "user_info": {
+                "screen_name": "runealpha_btc",
+                "name": "Rune Alpha",
+                "rest_id": "1512749469192065026",
+                "followers_count": 44697,
+                "favourites_count": 480,
+                "avatar": "https://pbs.twimg.com/profile_images/1758779322960420864/4E-L2vXh_normal.jpg",
+                "verified": false,
+                "friends_count": 43
+            },
+            "media": {
+                "video": [
+                    {
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1777956236673392640/pu/img/U2wkqF6w3ItL2GJw.jpg",
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1777956236673392640/pu/pl/3pYtEQ4j__QBrNvf.m3u8?tag=12&container=cmaf"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1777956236673392640/pu/vid/avc1/480x270/nitNpUyhdeSbgh5Y.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1777956236673392640/pu/vid/avc1/640x360/8fmTd40Drjz_Ghrr.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1777956236673392640/pu/vid/avc1/1280x720/CS4kRnO5WBtHW-vs.mp4?tag=12"
+                            }
+                        ],
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "original_info": {
+                            "height": 1080,
+                            "width": 1920,
+                            "focus_rects": []
+                        },
+                        "id": "1777956236673392640"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "tweet",
+            "tweet_id": "1777920643087917205",
+            "screen_name": "TheBTCTherapist",
+            "bookmarks": 6,
+            "favorites": 369,
+            "created_at": "Wed Apr 10 04:44:48 +0000 2024",
+            "text": "Everybody wants 1.0 #Bitcoin but nobody wants to keep their head down, shut the f*ck up and stack sats.",
+            "lang": "en",
+            "quotes": 0,
+            "replies": 54,
+            "retweets": 45,
+            "views": "14286",
+            "entities": {
+                "user_mentions": [],
+                "urls": [],
+                "hashtags": [
+                    {
+                        "indices": [
+                            20,
+                            28
+                        ],
+                        "text": "Bitcoin"
+                    }
+                ],
+                "symbols": []
+            },
+            "user_info": {
+                "screen_name": "TheBTCTherapist",
+                "name": "The \u20bfitcoin Therapist",
+                "rest_id": "1415064893628297217",
+                "followers_count": 94835,
+                "favourites_count": 24427,
+                "avatar": "https://pbs.twimg.com/profile_images/1620979330288439296/pIFd9Ai7_normal.jpg",
+                "verified": false,
+                "friends_count": 692
+            },
+            "media": []
+        },
+        {
+            "type": "tweet",
+            "tweet_id": "1777964693740552457",
+            "screen_name": "BTC_Archive",
+            "bookmarks": 4,
+            "favorites": 164,
+            "created_at": "Wed Apr 10 07:39:50 +0000 2024",
+            "text": "gm gm :)\n\nHappy Eid to our Muslim brothers and sister.\n\nWishing everybody Peace, Love, Health, and Prosperity!\n\n\ud83d\udd4a\ufe0f\u2764\ufe0f\ud83e\udd17",
+            "lang": "en",
+            "quotes": 2,
+            "replies": 60,
+            "retweets": 17,
+            "views": "9124",
+            "entities": {
+                "user_mentions": [],
+                "urls": [],
+                "hashtags": [],
+                "symbols": []
+            },
+            "user_info": {
+                "screen_name": "BTC_Archive",
+                "name": "Bitcoin Archive",
+                "rest_id": "970994516357472257",
+                "followers_count": 1463224,
+                "favourites_count": 161353,
+                "avatar": "https://pbs.twimg.com/profile_images/1698747465178959872/oT_AJ0eq_normal.jpg",
+                "verified": false,
+                "friends_count": 713
+            },
+            "media": []
+        },
+        {
+            "type": "tweet",
+            "tweet_id": "1777943963002966406",
+            "screen_name": "EinsteinBTC1",
+            "bookmarks": 3,
+            "favorites": 90,
+            "created_at": "Wed Apr 10 06:17:28 +0000 2024",
+            "text": "GM all \ud83d\ude4c\n\nGreat to see @ShillGuard hit a new ATH earlier on \ud83d\ude80\n\nSo much coming over the coming weeks and months \ud83d\udc40 \n\nhttps://t.co/DehCbORBie https://t.co/3DfJExHs40",
+            "lang": "en",
+            "quotes": 1,
+            "replies": 28,
+            "retweets": 22,
+            "views": "45407",
+            "entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/3DfJExHs40",
+                        "expanded_url": "https://twitter.com/EinsteinBTC1/status/1777943963002966406/photo/1",
+                        "id_str": "1777943957235703808",
+                        "indices": [
+                            139,
+                            162
+                        ],
+                        "media_key": "3_1777943957235703808",
+                        "media_url_https": "https://pbs.twimg.com/media/GKyGm_GWIAA2opg.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/3DfJExHs40",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 720,
+                                "w": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 675,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 383,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 720,
+                            "width": 1280,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 3,
+                                    "w": 1280,
+                                    "h": 717
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 720,
+                                    "h": 720
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 632,
+                                    "h": 720
+                                },
+                                {
+                                    "x": 108,
+                                    "y": 0,
+                                    "w": 360,
+                                    "h": 720
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1280,
+                                    "h": 720
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "display_url": "pic.twitter.com/3DfJExHs40",
+                        "expanded_url": "https://twitter.com/EinsteinBTC1/status/1777943963002966406/photo/1",
+                        "id_str": "1777943957235757056",
+                        "indices": [
+                            139,
+                            162
+                        ],
+                        "media_key": "3_1777943957235757056",
+                        "media_url_https": "https://pbs.twimg.com/media/GKyGm_GW8AA5Ua7.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/3DfJExHs40",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            },
+                            "medium": {
+                                "faces": []
+                            },
+                            "small": {
+                                "faces": []
+                            },
+                            "orig": {
+                                "faces": []
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 720,
+                                "w": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 675,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 383,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 720,
+                            "width": 1280,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 3,
+                                    "w": 1280,
+                                    "h": 717
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 720,
+                                    "h": 720
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 632,
+                                    "h": 720
+                                },
+                                {
+                                    "x": 44,
+                                    "y": 0,
+                                    "w": 360,
+                                    "h": 720
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1280,
+                                    "h": 720
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "display_url": "pic.twitter.com/3DfJExHs40",
+                        "expanded_url": "https://twitter.com/EinsteinBTC1/status/1777943963002966406/photo/1",
+                        "id_str": "1777943957235740672",
+                        "indices": [
+                            139,
+                            162
+                        ],
+                        "media_key": "3_1777943957235740672",
+                        "media_url_https": "https://pbs.twimg.com/media/GKyGm_GWsAAxspX.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/3DfJExHs40",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 1182,
+                                        "y": 363,
+                                        "h": 47,
+                                        "w": 47
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 1108,
+                                        "y": 340,
+                                        "h": 44,
+                                        "w": 44
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 627,
+                                        "y": 192,
+                                        "h": 24,
+                                        "w": 24
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 1182,
+                                        "y": 363,
+                                        "h": 47,
+                                        "w": 47
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 720,
+                                "w": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 675,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 383,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 720,
+                            "width": 1280,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 3,
+                                    "w": 1280,
+                                    "h": 717
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 720,
+                                    "h": 720
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 632,
+                                    "h": 720
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 360,
+                                    "h": 720
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1280,
+                                    "h": 720
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id_str": "1650926333726171145",
+                        "name": "ShillGuard Official",
+                        "screen_name": "ShillGuard",
+                        "indices": [
+                            23,
+                            34
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "dextools.io/app/en/ether/p\u2026",
+                        "expanded_url": "https://www.dextools.io/app/en/ether/pair-explorer/0x6cb117d3b86a1ba32eb7057a274a9fe958dba4da?t=1712729806811",
+                        "url": "https://t.co/DehCbORBie",
+                        "indices": [
+                            115,
+                            138
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "symbols": []
+            },
+            "user_info": {
+                "screen_name": "EinsteinBTC1",
+                "name": "Einstein \ud83d\udc51",
+                "rest_id": "1265925748587556864",
+                "followers_count": 334228,
+                "favourites_count": 7859,
+                "avatar": "https://pbs.twimg.com/profile_images/1761333161055633408/lx3Z8SHb_normal.jpg",
+                "verified": false,
+                "friends_count": 5454
+            },
+            "media": {
+                "photo": [
+                    {
+                        "media_url_https": "https://pbs.twimg.com/media/GKyGm_GWIAA2opg.jpg",
+                        "id": "1777943957235703808"
+                    },
+                    {
+                        "media_url_https": "https://pbs.twimg.com/media/GKyGm_GW8AA5Ua7.jpg",
+                        "id": "1777943957235757056"
+                    },
+                    {
+                        "media_url_https": "https://pbs.twimg.com/media/GKyGm_GWsAAxspX.jpg",
+                        "id": "1777943957235740672"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "tweet",
+            "tweet_id": "1777853033843417445",
+            "screen_name": "CryptoA40672341",
+            "bookmarks": 3,
+            "favorites": 119,
+            "created_at": "Wed Apr 10 00:16:08 +0000 2024",
+            "text": "#btc 4 hr looks very good .\nAbove $75k coming . https://t.co/lcIAbdlXHK",
+            "lang": "en",
+            "quotes": 1,
+            "replies": 13,
+            "retweets": 10,
+            "views": "6089",
+            "entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/lcIAbdlXHK",
+                        "expanded_url": "https://twitter.com/CryptoA40672341/status/1777853033843417445/photo/1",
+                        "id_str": "1777853030735413248",
+                        "indices": [
+                            48,
+                            71
+                        ],
+                        "media_key": "3_1777853030735413248",
+                        "media_url_https": "https://pbs.twimg.com/media/GKwz6XfWAAA7V9q.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/lcIAbdlXHK",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 144,
+                                        "y": 1558,
+                                        "h": 106,
+                                        "w": 106
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 84,
+                                        "y": 913,
+                                        "h": 62,
+                                        "w": 62
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 47,
+                                        "y": 517,
+                                        "h": 35,
+                                        "w": 35
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 144,
+                                        "y": 1558,
+                                        "h": 106,
+                                        "w": 106
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 2048,
+                                "w": 1092,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "w": 640,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 363,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 2048,
+                            "width": 1092,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 766,
+                                    "w": 1092,
+                                    "h": 612
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 526,
+                                    "w": 1092,
+                                    "h": 1092
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 450,
+                                    "w": 1092,
+                                    "h": 1245
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1024,
+                                    "h": 2048
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1092,
+                                    "h": 2048
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "user_mentions": [],
+                "urls": [],
+                "hashtags": [
+                    {
+                        "indices": [
+                            0,
+                            4
+                        ],
+                        "text": "btc"
+                    }
+                ],
+                "symbols": []
+            },
+            "user_info": {
+                "screen_name": "CryptoA40672341",
+                "name": "Crypto Analyst",
+                "rest_id": "1385801333903695873",
+                "followers_count": 58841,
+                "favourites_count": 4084,
+                "avatar": "https://pbs.twimg.com/profile_images/1548726148225441792/hod8wD9z_normal.jpg",
+                "verified": false,
+                "friends_count": 528
+            },
+            "media": {
+                "photo": [
+                    {
+                        "media_url_https": "https://pbs.twimg.com/media/GKwz6XfWAAA7V9q.jpg",
+                        "id": "1777853030735413248"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "tweet",
+            "tweet_id": "1777960030949491084",
+            "screen_name": "SenseiBR_btc",
+            "bookmarks": 0,
+            "favorites": 19,
+            "created_at": "Wed Apr 10 07:21:18 +0000 2024",
+            "text": "From Sensei patience you must learn.\n\nOur time is coming, dip are just a opportunity on our way. https://t.co/rQd5mYlvle",
+            "lang": "en",
+            "quotes": 0,
+            "replies": 4,
+            "retweets": 5,
+            "views": "718",
+            "entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/rQd5mYlvle",
+                        "expanded_url": "https://twitter.com/SenseiBR_btc/status/1777960030949491084/photo/1",
+                        "id_str": "1777960023961776129",
+                        "indices": [
+                            97,
+                            120
+                        ],
+                        "media_key": "16_1777960023961776129",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GKyVOMUWMAEfBow.jpg",
+                        "type": "animated_gif",
+                        "url": "https://t.co/rQd5mYlvle",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 280,
+                                "w": 498,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 280,
+                                "w": 498,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 280,
+                                "w": 498,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 280,
+                            "width": 498,
+                            "focus_rects": []
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                249,
+                                140
+                            ],
+                            "variants": [
+                                {
+                                    "bitrate": 0,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/tweet_video/GKyVOMUWMAEfBow.mp4"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "user_mentions": [],
+                "urls": [],
+                "hashtags": [],
+                "symbols": []
+            },
+            "user_info": {
+                "screen_name": "SenseiBR_btc",
+                "name": "Sensei",
+                "rest_id": "1722330307892744192",
+                "followers_count": 23070,
+                "favourites_count": 2261,
+                "avatar": "https://pbs.twimg.com/profile_images/1768669945192136704/eImtL3gp_normal.jpg",
+                "verified": false,
+                "friends_count": 68
+            },
+            "media": {
+                "video": [
+                    {
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GKyVOMUWMAEfBow.jpg",
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/GKyVOMUWMAEfBow.mp4"
+                            }
+                        ],
+                        "aspect_ratio": [
+                            249,
+                            140
+                        ],
+                        "original_info": {
+                            "height": 280,
+                            "width": 498,
+                            "focus_rects": []
+                        },
+                        "id": "1777960023961776129"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "tweet",
+            "tweet_id": "1777968236564492322",
+            "screen_name": "doorinews",
+            "bookmarks": 0,
+            "favorites": 0,
+            "created_at": "Wed Apr 10 07:53:55 +0000 2024",
+            "text": "Dooridoori Looks to the Future.\ud83d\ude0e\n\nWatch on YouTube\u2b07\ufe0f\n\ud83d\udda5 Dooridoori 337 round\n(Start point 49:13~)\n\nThe era of face-based payments: Facial recognition community currency\n(Lecture on April 23, 20)\n\n\ud83d\udce2Source\nIT Daily April 24, 20\nMoney Today April 23, 20\n\n#Dooridoori  #BTC https://t.co/6bGO92GxjQ",
+            "lang": "en",
+            "quotes": 0,
+            "replies": 1,
+            "retweets": 0,
+            "views": "1",
+            "entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/6bGO92GxjQ",
+                        "expanded_url": "https://twitter.com/doorinews/status/1777968236564492322/video/1",
+                        "id_str": "1777968199251959808",
+                        "indices": [
+                            269,
+                            292
+                        ],
+                        "media_key": "7_1777968199251959808",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1777968199251959808/pu/img/UXS3aS5VvN4bC7QW.jpg",
+                        "type": "video",
+                        "url": "https://t.co/6bGO92GxjQ",
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 720,
+                                "w": 1280,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 675,
+                                "w": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 383,
+                                "w": 680,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 720,
+                            "width": 1280,
+                            "focus_rects": []
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 57600,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1777968199251959808/pu/pl/P0469v3PDdji3ohb.m3u8?tag=12&container=cmaf"
+                                },
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1777968199251959808/pu/vid/avc1/480x270/WiGcR8ThV6pMbLd3.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1777968199251959808/pu/vid/avc1/640x360/-j4AMdM0HbKxXVCw.mp4?tag=12"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1777968199251959808/pu/vid/avc1/1280x720/DX4prs_a88i4K6xn.mp4?tag=12"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "user_mentions": [],
+                "urls": [],
+                "hashtags": [
+                    {
+                        "indices": [
+                            251,
+                            262
+                        ],
+                        "text": "Dooridoori"
+                    },
+                    {
+                        "indices": [
+                            264,
+                            268
+                        ],
+                        "text": "BTC"
+                    }
+                ],
+                "symbols": []
+            },
+            "user_info": {
+                "screen_name": "doorinews",
+                "name": "DooriDooriOfficial",
+                "rest_id": "1700780612632887296",
+                "followers_count": 166,
+                "favourites_count": 9,
+                "avatar": "https://pbs.twimg.com/profile_images/1700808194782867456/XFRSJMME_normal.jpg",
+                "verified": false,
+                "friends_count": 17
+            },
+            "media": {
+                "video": [
+                    {
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1777968199251959808/pu/img/UXS3aS5VvN4bC7QW.jpg",
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1777968199251959808/pu/pl/P0469v3PDdji3ohb.m3u8?tag=12&container=cmaf"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1777968199251959808/pu/vid/avc1/480x270/WiGcR8ThV6pMbLd3.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1777968199251959808/pu/vid/avc1/640x360/-j4AMdM0HbKxXVCw.mp4?tag=12"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1777968199251959808/pu/vid/avc1/1280x720/DX4prs_a88i4K6xn.mp4?tag=12"
+                            }
+                        ],
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "original_info": {
+                            "height": 720,
+                            "width": 1280,
+                            "focus_rects": []
+                        },
+                        "id": "1777968199251959808"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "tweet",
+            "tweet_id": "1777948749878178118",
+            "screen_name": "cryptodoc_",
+            "bookmarks": 0,
+            "favorites": 35,
+            "created_at": "Wed Apr 10 06:36:29 +0000 2024",
+            "text": "Looks like it's going to be a boring week till we get to BTC halving\n\nSome Volatility is expected\nBut no problem because we are in the projects for the long Term\n\nWe'll sell most of our bags for the retail end of the year \ud83d\ude0e https://t.co/Cd8OifmEf0",
+            "lang": "en",
+            "quotes": 0,
+            "replies": 11,
+            "retweets": 8,
+            "views": "2987",
+            "entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/Cd8OifmEf0",
+                        "expanded_url": "https://twitter.com/cryptodoc_/status/1777948749878178118/photo/1",
+                        "id_str": "1777948740550041600",
+                        "indices": [
+                            224,
+                            247
+                        ],
+                        "media_key": "3_1777948740550041600",
+                        "media_url_https": "https://pbs.twimg.com/media/GKyK9aVWoAA9Y7c.jpg",
+                        "type": "photo",
+                        "url": "https://t.co/Cd8OifmEf0",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 385,
+                                        "y": 173,
+                                        "h": 261,
+                                        "w": 261
+                                    }
+                                ]
+                            },
+                            "medium": {
+                                "faces": [
+                                    {
+                                        "x": 385,
+                                        "y": 173,
+                                        "h": 261,
+                                        "w": 261
+                                    }
+                                ]
+                            },
+                            "small": {
+                                "faces": [
+                                    {
+                                        "x": 268,
+                                        "y": 120,
+                                        "h": 182,
+                                        "w": 182
+                                    }
+                                ]
+                            },
+                            "orig": {
+                                "faces": [
+                                    {
+                                        "x": 385,
+                                        "y": 173,
+                                        "h": 261,
+                                        "w": 261
+                                    }
+                                ]
+                            }
+                        },
+                        "sizes": {
+                            "large": {
+                                "h": 974,
+                                "w": 959,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "h": 974,
+                                "w": 959,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "h": 680,
+                                "w": 670,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "w": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "original_info": {
+                            "height": 974,
+                            "width": 959,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 48,
+                                    "w": 959,
+                                    "h": 537
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 959,
+                                    "h": 959
+                                },
+                                {
+                                    "x": 84,
+                                    "y": 0,
+                                    "w": 854,
+                                    "h": 974
+                                },
+                                {
+                                    "x": 268,
+                                    "y": 0,
+                                    "w": 487,
+                                    "h": 974
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 959,
+                                    "h": 974
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "user_mentions": [],
+                "urls": [],
+                "hashtags": [],
+                "symbols": []
+            },
+            "user_info": {
+                "screen_name": "cryptodoc_",
+                "name": "CryptoDoc (Gem Hunter\ud83d\udc8e)",
+                "rest_id": "1265904999290204161",
+                "followers_count": 67372,
+                "favourites_count": 16440,
+                "avatar": "https://pbs.twimg.com/profile_images/1557691137355235328/baAz1hpr_normal.jpg",
+                "verified": false,
+                "friends_count": 1055
+            },
+            "media": {
+                "photo": [
+                    {
+                        "media_url_https": "https://pbs.twimg.com/media/GKyK9aVWoAA9Y7c.jpg",
+                        "id": "1777948740550041600"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "tweet",
+            "tweet_id": "1777956400766874104",
+            "screen_name": "5btc_",
+            "bookmarks": 5,
+            "favorites": 74,
+            "created_at": "Wed Apr 10 07:06:53 +0000 2024",
+            "text": "11 odds \ud83c\udf40\n\nSporty code \ud83d\udc68\ud83c\udfff\u200d\ud83d\udcbb 9493EC5\n\n\ud83e\udd7e",
+            "lang": "en",
+            "quotes": 0,
+            "replies": 10,
+            "retweets": 14,
+            "views": "6346",
+            "entities": {
+                "user_mentions": [],
+                "urls": [],
+                "hashtags": [],
+                "symbols": []
+            },
+            "user_info": {
+                "screen_name": "5btc_",
+                "name": "5 B T C :) \u2606 \u2661 \ud835\udd4f",
+                "rest_id": "1720081791921664000",
+                "followers_count": 11671,
+                "favourites_count": 1381,
+                "avatar": "https://pbs.twimg.com/profile_images/1777631203169853440/d2mLLX5e_normal.jpg",
+                "verified": false,
+                "friends_count": 21
+            },
+            "media": []
+        }
+    ],
+    "next_cursor": "DAACCgACGKycuzwAJxAKAAMYrJy7O__Y8AgABAAAAAILAAUAAADQRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUJFWXJKdEhLZGNBbnhpc2l2ZlJWckZHR0t5VFNrL2FnYWNZckpVNlpaWkJqQmlzaHAxSlY1R0dHS3lYNnM5WGdNa1lySnB1cTlaZzRoaXNpTHA4MW9GR0dLeVplQW1YZ1FrWXJFZm02aFlndlJpc2dJMHoydUg4R0t3ejZqRVdZV1VZcklWV0xoWWdTQmlzY1dleUZ1Q1ZHS3ljc09wYXNDSVlySkh0TGRkeCtCaXNqY015RjVESQgABgAAAAAIAAcAAAAADAAICgABGKwz6jEWYWUAAAA"
+}

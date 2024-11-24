@@ -1,0 +1,547 @@
+{
+    "timeline": [
+      {
+        "type": "tweet",
+        "tweet_id": "1703108627035254988",
+        "screen_name": "fishcatut",
+        "bookmarks": 9,
+        "favorites": 241,
+        "created_at": "Sat Sep 16 18:08:33 +0000 2023",
+        "text": "What’s going on here #cybertruck #tesla https://t.co/6W1eU8HAu6",
+        "lang": "en",
+        "quotes": 14,
+        "replies": 42,
+        "retweets": 19,
+        "media": {
+          "photo": [
+            {
+              "media_url_https": "https://pbs.twimg.com/media/F6KoROmWoAANrrN.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1703279557577699342",
+        "screen_name": "mahkusg",
+        "bookmarks": 21,
+        "favorites": 825,
+        "created_at": "Sun Sep 17 05:27:46 +0000 2023",
+        "text": "Cybertruck charging at the 50,000th supercharger in Roseville tonight! https://t.co/SfPqUUrJAn",
+        "lang": "en",
+        "quotes": 17,
+        "replies": 32,
+        "retweets": 82,
+        "media": {
+          "photo": [
+            {
+              "media_url_https": "https://pbs.twimg.com/media/F6NDuJ2a0AAzX8S.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "promoted-1701909587321135565-116dcb174fb57dbc",
+        "screen_name": "karma_shopping",
+        "bookmarks": 0,
+        "favorites": 60,
+        "created_at": "Wed Sep 13 10:44:00 +0000 2023",
+        "text": "Don't overpay on Amazon ever again! This Amazon shopping hack is like Prime Day on steroids.",
+        "lang": "en",
+        "quotes": 19,
+        "replies": 6,
+        "retweets": 8,
+        "media": []
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1703346243101987161",
+        "screen_name": "pablo9948967714",
+        "bookmarks": 0,
+        "favorites": 21,
+        "created_at": "Sun Sep 17 09:52:45 +0000 2023",
+        "text": "The New #Tesla Cybertruck video back to the future\n$TSLA\nIt's coming soon 👍🚀 https://t.co/gzxALnV64T",
+        "lang": "en",
+        "quotes": 1,
+        "replies": 2,
+        "retweets": 5,
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1703346196859801601/pu/img/zA9Stc-b335N7L45.jpg",
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1703346196859801601/pu/vid/avc1/480x270/fB9zcrSCmumapDBC.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1703346196859801601/pu/pl/h488PFsx2HGUWiJu.m3u8?tag=12&container=fmp4"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1703346196859801601/pu/vid/avc1/1280x720/5u2paHRqlAIE4dN6.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1703346196859801601/pu/vid/avc1/640x360/yk8uFBmBKvAfSLAH.mp4?tag=12"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1703254087373111415",
+        "screen_name": "bill_selly",
+        "bookmarks": 2,
+        "favorites": 47,
+        "created_at": "Sun Sep 17 03:46:34 +0000 2023",
+        "text": "My first sighting of a Cybertruck IRL. Cruising around on a Saturday night in Los Gatos, CA.\n#Tesla #Cybertruck https://t.co/si4s8GJVhq",
+        "lang": "en",
+        "quotes": 2,
+        "replies": 6,
+        "retweets": 1,
+        "media": {
+          "photo": [
+            {
+              "media_url_https": "https://pbs.twimg.com/media/F6MsjAIaMAA8fZW.jpg"
+            },
+            {
+              "media_url_https": "https://pbs.twimg.com/media/F6MsjAHbYAABlu6.jpg"
+            },
+            {
+              "media_url_https": "https://pbs.twimg.com/media/F6MsjALbAAEaicj.jpg"
+            },
+            {
+              "media_url_https": "https://pbs.twimg.com/media/F6MsjAIb0AABC7F.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1703032326341431667",
+        "screen_name": "pablo9948967714",
+        "bookmarks": 24,
+        "favorites": 864,
+        "created_at": "Sat Sep 16 13:05:22 +0000 2023",
+        "text": "$TSLA\nTesla Rep Confirms Cybertruck Will Start Deliveries in October\n\nA Tesla employee has confirmed that Tesla is internally targeting this October to hold what is expected to be a first-of-its-kind delivery event for the Cybertruck.\n\nTesla is in the final stages of starting… https://t.co/nuLLPam73R",
+        "lang": "en",
+        "quotes": 39,
+        "replies": 59,
+        "retweets": 133,
+        "media": {
+          "photo": [
+            {
+              "media_url_https": "https://pbs.twimg.com/media/F6JizzUXoAAiqEC.png"
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1703347751893844168",
+        "screen_name": "madman_Marlton",
+        "bookmarks": 0,
+        "favorites": 2,
+        "created_at": "Sun Sep 17 09:58:45 +0000 2023",
+        "text": "I'm waiting for the CyberTruck... Na that one enter my eye",
+        "lang": "en",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 2,
+        "media": []
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "promoted-1696613694686498852-116d8c91359aca2b",
+        "screen_name": "westerndigital",
+        "bookmarks": 3,
+        "favorites": 203,
+        "created_at": "Tue Aug 29 20:00:01 +0000 2023",
+        "text": "One standard helium tank provides enough gas to fill nearly 10,000 Western Digital drives—or 30 balloons. 🎈",
+        "lang": "en",
+        "quotes": 0,
+        "replies": 4,
+        "retweets": 17,
+        "media": []
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1703098346955571280",
+        "screen_name": "SERobinsonJr",
+        "bookmarks": 10,
+        "favorites": 796,
+        "created_at": "Sat Sep 16 17:27:42 +0000 2023",
+        "text": "\"Dam... There it is.\"\nCybertruck. That black X looks good to, tho. 😉 \nTT u/fredhan8 https://t.co/HIDvqM8vKJ",
+        "lang": "en",
+        "quotes": 10,
+        "replies": 74,
+        "retweets": 130,
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1703098285689319424/pu/img/UDf6qZR4eHhhSczF.jpg",
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1703098285689319424/pu/pl/JLijYnanETS7xIIa.m3u8?tag=12&container=fmp4"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1703098285689319424/pu/vid/avc1/576x1024/D1OtJ60BtUiy0qCN.mp4?tag=12"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1703098285689319424/pu/vid/avc1/320x568/6Krq8G_e3qD_2Py6.mp4?tag=12"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1703098285689319424/pu/vid/avc1/480x852/fAiaNHat3vCZlom8.mp4?tag=12"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1703275224865951913",
+        "screen_name": "greggertruck",
+        "bookmarks": 3,
+        "favorites": 523,
+        "created_at": "Sun Sep 17 05:10:33 +0000 2023",
+        "text": "A non-manufacturer license plate Cybertruck in Palo Alto. This is a first.. 🤨 (h/t @omg_tesla ) https://t.co/DInYoTDmHY",
+        "lang": "en",
+        "quotes": 4,
+        "replies": 26,
+        "retweets": 40,
+        "media": {
+          "photo": [
+            {
+              "media_url_https": "https://pbs.twimg.com/media/F6M_yiFacAAMU3H.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1700502589064823250",
+        "screen_name": "mars_1project",
+        "bookmarks": 0,
+        "favorites": 23,
+        "created_at": "Sat Sep 09 13:33:05 +0000 2023",
+        "text": "Cybertruck is more beautiful at night 👇",
+        "lang": "en",
+        "quotes": 3,
+        "replies": 1,
+        "retweets": 1,
+        "media": []
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1703259788640203155",
+        "screen_name": "greggertruck",
+        "bookmarks": 2,
+        "favorites": 158,
+        "created_at": "Sun Sep 17 04:09:13 +0000 2023",
+        "text": "Cybertruck at night 🌃 https://t.co/IqALoBUqJI",
+        "lang": "en",
+        "quotes": 0,
+        "replies": 3,
+        "retweets": 15,
+        "media": {
+          "photo": [
+            {
+              "media_url_https": "https://pbs.twimg.com/media/F6Mxv-8bgAAO5eY.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "promoted-1698987022105387420-116d58a37e08145a",
+        "screen_name": "GOLDCOUNCIL",
+        "bookmarks": 2,
+        "favorites": 47,
+        "created_at": "Tue Sep 05 09:10:46 +0000 2023",
+        "text": "Gold can be digitally bought, stored, and sold—making accessing its potential benefits easy.",
+        "lang": "en",
+        "quotes": 4,
+        "replies": 2,
+        "retweets": 6,
+        "media": []
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1703319639365714341",
+        "screen_name": "teslacarsonly",
+        "bookmarks": 0,
+        "favorites": 27,
+        "created_at": "Sun Sep 17 08:07:02 +0000 2023",
+        "text": "TESLA CYBERTRUCK WILL BE REPLACING USUAL PICKUP TRUCKS. https://t.co/QklutH8K2o",
+        "lang": "en",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 3,
+        "media": {
+          "photo": [
+            {
+              "media_url_https": "https://pbs.twimg.com/media/F6NoAbQWgAAZ8W_.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1703291811752550513",
+        "screen_name": "wealthXfreedom",
+        "bookmarks": 0,
+        "favorites": 5,
+        "created_at": "Sun Sep 17 06:16:28 +0000 2023",
+        "text": "Cybertruck and the water  https://t.co/AqvOBPLtW2",
+        "lang": "en",
+        "quotes": 0,
+        "replies": 0,
+        "retweets": 3,
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1700547228908044288/pu/img/GXAMMFOOp-XJ7-jG.jpg",
+              "variants": [
+                {
+                  "bitrate": 1280000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1700547228908044288/pu/vid/avc1/720x720/KzlQAzSUNgpAln2c.mp4?tag=12"
+                },
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1700547228908044288/pu/vid/avc1/320x320/bW8Q563PwNQ3-2Pp.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1700547228908044288/pu/pl/sXUWwmD2_cksjHol.m3u8?tag=12&container=fmp4"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1700547228908044288/pu/vid/avc1/540x540/vleYK45U54O6JOu4.mp4?tag=12"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1703190244118745367",
+        "screen_name": "greggertruck",
+        "bookmarks": 4,
+        "favorites": 504,
+        "created_at": "Sat Sep 16 23:32:52 +0000 2023",
+        "text": "Cybertruck spotted a couple different times this morning driving around San Diego. Here’s a video of Cybertruck leaving the Supercharger.\n\nCybertruck season is almost here! https://t.co/ywjxInQdr1",
+        "lang": "en",
+        "quotes": 2,
+        "replies": 23,
+        "retweets": 53,
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1703190189383061504/img/34vc1DYtVsy5pgMR.jpg",
+              "variants": [
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1703190189383061504/vid/avc1/480x852/P98zV0UiVo7IQWFj.mp4?tag=14"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1703190189383061504/pl/bjP_TgaWuedzFg7A.m3u8?tag=14&container=fmp4"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1703190189383061504/vid/avc1/320x568/lx1X5T4rBJv0eKdY.mp4?tag=14"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1703190189383061504/vid/avc1/576x1024/Rip-8zw5ugOuSRIQ.mp4?tag=14"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1703347185159647323",
+        "screen_name": "Miorineyuzzki",
+        "bookmarks": 0,
+        "favorites": 5,
+        "created_at": "Sun Sep 17 09:56:30 +0000 2023",
+        "text": "Cybertruck https://t.co/TAhhrlx5ES",
+        "lang": "en",
+        "quotes": 0,
+        "replies": 0,
+        "retweets": 0,
+        "media": {
+          "photo": [
+            {
+              "media_url_https": "https://pbs.twimg.com/media/F6OBPRIaYAAbbgh.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1701967321068171405",
+        "screen_name": "IanPerez260",
+        "bookmarks": 0,
+        "favorites": 30,
+        "created_at": "Wed Sep 13 14:33:25 +0000 2023",
+        "text": "Am the first African to own a Cybertruck.! https://t.co/ZVTnAOF1Tx",
+        "lang": "en",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 3,
+        "media": {
+          "photo": [
+            {
+              "media_url_https": "https://pbs.twimg.com/media/F56aQklWIAAbjll.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1700734082588549323",
+        "screen_name": "xganesha",
+        "bookmarks": 30,
+        "favorites": 1256,
+        "created_at": "Sun Sep 10 04:52:58 +0000 2023",
+        "text": "Cybertruck getting loaded for deliveries.. $TSLA #Cybertruck https://t.co/6csuSAo76W",
+        "lang": "en",
+        "quotes": 36,
+        "replies": 107,
+        "retweets": 169,
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1700734025726296064/img/4kLKckkTxhLrU4Gd.jpg",
+              "variants": [
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1700734025726296064/vid/avc1/480x852/Sa6WDP4ARQMnazKi.mp4?tag=14"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1700734025726296064/vid/avc1/320x568/u0kBpZNmB1h1Wf2O.mp4?tag=14"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1700734025726296064/pl/XSWOupEyQRB4UgY1.m3u8?tag=14&container=fmp4"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1700734025726296064/vid/avc1/720x1280/9lUE8kKZgCZrUxnO.mp4?tag=14"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1702599615768309768",
+        "screen_name": "seybertooth",
+        "bookmarks": 0,
+        "favorites": 9,
+        "created_at": "Fri Sep 15 08:25:55 +0000 2023",
+        "text": "Do anyone really think that the typical #Cybertruck customer is going to appreciate having to look UP at F-150 owners at traffic-lights?  Not sure that's going to fit into the cultist scifi power-fantasy. 🤔 $TSLAQ",
+        "lang": "en",
+        "quotes": 0,
+        "replies": 1,
+        "retweets": 1,
+        "media": []
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1700802693353099354",
+        "screen_name": "wealthXfreedom",
+        "bookmarks": 3,
+        "favorites": 57,
+        "created_at": "Sun Sep 10 09:25:36 +0000 2023",
+        "text": "Cybertruck parking is easy peasy 😎https://t.co/FhedYLCSKa",
+        "lang": "en",
+        "quotes": 2,
+        "replies": 4,
+        "retweets": 11,
+        "media": {
+          "video": [
+            {
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1700737441299042304/pu/img/P297aGULn_NEGvF1.jpg",
+              "variants": [
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1700737441299042304/pu/vid/avc1/480x546/L5aZneE4invJEI6E.mp4?tag=12"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1700737441299042304/pu/vid/avc1/320x364/_OhBeYcim6v7vZQV.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1700737441299042304/pu/pl/lOzb1j--bniugMgH.m3u8?tag=12&container=fmp4&v=527"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1700737441299042304/pu/vid/avc1/716x816/FpPKaY7gxpnn0RfF.mp4?tag=12"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "tweet",
+        "tweet_id": "1703187061748973778",
+        "screen_name": "Drew03111",
+        "bookmarks": 0,
+        "favorites": 40,
+        "created_at": "Sat Sep 16 23:20:13 +0000 2023",
+        "text": "Probably hauling more than any cybertruck at the moment. https://t.co/8NGKbG09bx",
+        "lang": "en",
+        "quotes": 0,
+        "replies": 2,
+        "retweets": 4,
+        "media": {
+          "photo": [
+            {
+              "media_url_https": "https://pbs.twimg.com/media/F6Lvlo9XQAAjyIz.jpg"
+            },
+            {
+              "media_url_https": "https://pbs.twimg.com/media/F6Lvma_XUAAePSZ.jpg"
+            }
+          ]
+        }
+      }
+    ],
+    "next_cursor": "DAACCgACF6OTaL7AJxAKAAMXo5Novr_Y8AgABAAAAAILAAUAAAEIRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUJZWG96L0s3TnZRcVJlaTc1dlpsc0RTRjZNc2tYZ2JRSGNYb05sVWJKWXdDQmVhZHduU1Z0QmFGNkx5Z00yYjBSY1hvekhBNWhzeGt4ZWpnY0Z3bDhESUY2S29SZGhXOE13WG9tTGd0SmFSY3hlamFDLzdWd0dsRjU1bHdLZ2JvYzBYaTVVcWtOb1FKQmVpbnV4VDE0QlFGNk5PNE54WG9IRVhvNEJpSlpjUldSZWpRN3UybW5BT0Y1bzRveUlYSU1zWG5wcEMxNWR3alJlVUE3SHFseUdjRjVsbUdGalhRZElYbzRFOWZKb3dXdz09CAAGAAAAAAgABwAAAAAMAAgKAAEXmWYYWNdB0gAAAA"
+  }

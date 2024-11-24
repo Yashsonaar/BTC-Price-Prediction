@@ -1,0 +1,47 @@
+{
+    "likes": 18776,
+    "created_at": "Wed Jun 21 04:10:37 +0000 2023",
+    "text": "Watching Twitter videos on my TV only took me a few seconds to set up🤯\n\nAn awesome feature, if you’re watching longer videos on X/Twitter @elonmusk https://t.co/r1LzZ5ovoD",
+    "retweets": 2518,
+    "bookmarks": 983,
+    "quotes": 212,
+    "replies": 1649,
+    "lang": "en",
+    "conversation_id": "1671370010743263233",
+    "author": {
+      "rest_id": "2337692699",
+      "name": "Mathias Føns",
+      "screen_name": "FonsDK",
+      "image": "https://pbs.twimg.com/profile_images/1485391315819020292/1_3QNpYj_normal.jpg",
+      "blue_verified": true
+    },
+    "media": {
+      "video": [
+        {
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1671367628504309761/img/WoU2L8IXtzfmhlq9.jpg",
+          "variants": [
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1671367628504309761/vid/320x568/GgI9Wk58dUudZiOo.mp4?tag=14"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1671367628504309761/vid/480x852/1FeerZHX_A4YwBec.mp4?tag=14"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1671367628504309761/vid/720x1280/YSMJaf2mPv_41IO7.mp4?tag=14"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1671367628504309761/pl/i5UdEvopIWEUX7CF.m3u8?tag=14&container=fmp4"
+            }
+          ]
+        }
+      ]
+    },
+    "id": "1671370010743263233"
+  }
